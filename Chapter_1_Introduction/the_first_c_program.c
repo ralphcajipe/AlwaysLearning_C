@@ -1,3 +1,4 @@
+// The first C program.
 #include <stdio.h> // include information about the standard input/output library
 
 main() // define a function named main that receives no argument values
