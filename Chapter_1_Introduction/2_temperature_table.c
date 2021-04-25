@@ -2,7 +2,7 @@
 
 /* print Fahrenheit-Celcius table
 	for fahrenheit = 0, 20, ..., 300 
-	algorithm is C = (0°F - 32) × 5/9 */
+	algorithm is C = (0Â°F - 32) Ã— 5/9 */
 	
 main()
 {
