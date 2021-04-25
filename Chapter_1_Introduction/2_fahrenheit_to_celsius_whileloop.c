@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* print Fahrenheit-Celcius table
+/* print Fahrenheit to Celsius table
 	for fahrenheit = 0, 20, ..., 300 
 	algorithm is C = (0°F - 32) × 5/9 */
 	
