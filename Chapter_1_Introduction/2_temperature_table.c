@@ -16,7 +16,7 @@ main()
 	fahrenheit = lowerLimitofTemperatureTable;
 	printf("Fahrenheit\tCelsius\n");
 	while (fahrenheit <= upperLimitofTemperatureTable){
-		celsius =  (fahrenheit-32) * (5.0/9.0);
+		celsius =  (fahrenheit-32.0) * (5.0/9.0);
 		printf("%3.0f \t\t%6.1f\n", fahrenheit, celsius);
 		fahrenheit = fahrenheit + stepSize;
 	}
