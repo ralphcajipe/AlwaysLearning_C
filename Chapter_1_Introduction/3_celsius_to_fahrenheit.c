@@ -2,7 +2,7 @@
 
 /*	print Celsius to Fahrenheit table
 **	for celsius = -17.8, -6.7, ..., 148.9;
-**	algorithm is F = (0°C × 9/5) + 32 
+**	algorithm is F = (0Â°C Ã— 9/5) + 32 
 */
 	
 main()
