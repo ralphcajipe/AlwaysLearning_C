@@ -1,7 +1,7 @@
 # include<stdio.h> 
 # include<stdlib.h> 
  
-/* program to find the value of getchar()!=EOF */ 
+/* program to find the value of getchar() != EOF */ 
  
 int main() 
 { 
