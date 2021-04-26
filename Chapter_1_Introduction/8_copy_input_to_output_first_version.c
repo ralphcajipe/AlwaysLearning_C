@@ -10,6 +10,7 @@ main()
 {
 	int c;
 	
+	printf("Enter characters: \n");
 	c = getchar();
 	while(c != EOF) {
 		putchar(c);
