@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /* symbolic constants */
 #define LOWER 0     /* lower limit of table */
 #define UPPER 300   /* upper limit of table */
