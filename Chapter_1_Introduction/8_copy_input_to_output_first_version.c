@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /* pseudocode:
  *
  * read a character
