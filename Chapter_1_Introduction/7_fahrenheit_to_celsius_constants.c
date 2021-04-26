@@ -4,7 +4,7 @@
 #define UPPER 300   /* upper limit of table */
 #define STEP 20     /* step size */
 
-/* print Fahrenheit to Celsius table using symbolic constants */
+/* print Fahrenheit to Celsius table using for loop through symbolic constants */
 
 main()
 {
