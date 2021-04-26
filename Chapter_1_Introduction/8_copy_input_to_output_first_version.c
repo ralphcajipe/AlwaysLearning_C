@@ -13,7 +13,8 @@ main()
 	
 	printf("Enter characters: \n");
 	c = getchar();
-	while(c != EOF) {
+	while(c != EOF) 
+	{
 		putchar(c);
 		c = getchar();
 	}
