@@ -1,2 +1,2 @@
 # AlwaysLearning_C
-Always Learning: The C Programming Language from scratch
+Always Learning: I'm learning the C Programming Language from scratch
